@@ -1,0 +1,6 @@
+popularity_tier,track_count,avg_energy,avg_valence,avg_duration,pct_of_total
+Unknown (0-20),31649,0.641,0.492,3.485,29.3
+Low (21-40),31448,0.661,0.5,3.572,29.2
+Medium (41-60),31470,0.623,0.452,3.621,29.2
+High (61-80),12364,0.647,0.487,3.578,11.5
+Viral (81-100),941,0.68,0.508,3.474,0.9

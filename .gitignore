@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Generated plot exports
+plot*.png
+plots/
