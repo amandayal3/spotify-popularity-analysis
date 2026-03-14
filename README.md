@@ -178,7 +178,7 @@ Binary classification: predict whether a track is **popular** (popularity ≥ 50
 
 Made by **[Your Name]**
 📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](www.linkedin.com/in/aman-kumar-dayal-545baa319) | [GitHub](https://github.com/amandayal3)
 
 ---
 
